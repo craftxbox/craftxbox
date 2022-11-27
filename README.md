@@ -1,1 +1,1 @@
-<a rel="me" href="https://transfur.social/@craftxbox"></a>
+<a rel="me" href="https://transfur.social/@craftxbox">Mastodon</a>
